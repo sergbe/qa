@@ -24,6 +24,12 @@ public class HtmlUnit {
             System.out.println("Title Expected: \t" + title_expected);
             System.out.println("Title Actual: \t\t" + title_actual);
             System.out.println("Test Case Result: \t" + "PASSED");
+        } else if {
+            System.out.println("Test Case ID: \t\t" + text_case_id);
+            System.out.println("URL: \t\t\t" + url);
+            System.out.println("Title Expected: \t" + title_expected);
+            System.out.println("Title Actual: \t\t" + title_actual);
+            System.out.println("Test Case Result: \t" + "FAILED");
         } else {
             System.out.println("Test Case ID: \t\t" + text_case_id);
             System.out.println("URL: \t\t\t" + url);
