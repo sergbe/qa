@@ -1,9 +1,9 @@
 Hello World!
 
-<<<<<<< HEAD
-=======
+
 Add Files
->>>>>>> refs/remotes/origin/master
 
 Java class starts at 2pm
+
+QA class starts at 6pm
 
