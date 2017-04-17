@@ -4,3 +4,6 @@ Hello World!
 =======
 Add Files
 >>>>>>> refs/remotes/origin/master
+
+Java class starts at 2pm
+
