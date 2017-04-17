@@ -1,2 +1,6 @@
 Hello World!
 
+<<<<<<< HEAD
+=======
+Add Files
+>>>>>>> refs/remotes/origin/master
